@@ -1,0 +1,251 @@
+movie_title,url,rating,rating_count,genre,content_rating
+Breaking Bad,https://www.imdb.com/title/tt0903747/,9.5,2273953,"Crime, Drama, Thriller",TV-MA
+Planet Earth II,https://www.imdb.com/title/tt5491994/,9.4,164832,Documentary,TV-G
+Planet Earth,https://www.imdb.com/title/tt0795176/,9.4,225855,"Documentary, Family",TV-PG
+Band of Brothers,https://www.imdb.com/title/tt0185906/,9.4,552827,"Action, Drama, History",TV-MA
+Chernobyl,https://www.imdb.com/title/tt7366338/,9.3,926077,"Drama, History, Thriller",TV-MA
+The Wire,https://www.imdb.com/title/tt0306414/,9.3,396646,"Crime, Drama, Thriller",TV-MA
+Avatar: The Last Airbender,https://www.imdb.com/title/tt0417299/,9.3,396803,"Animation, Action, Adventure",TV-Y7-FV
+Blue Planet II,https://www.imdb.com/title/tt6769208/,9.3,50809,Documentary,TV-G
+The Sopranos,https://www.imdb.com/title/tt0141842/,9.2,510121,"Crime, Drama",TV-MA
+Cosmos: A Spacetime Odyssey,https://www.imdb.com/title/tt2395695/,9.2,133183,Documentary,TV-PG
+Cosmos,https://www.imdb.com/title/tt0081846/,9.3,47343,Documentary,TV-PG
+Our Planet,https://www.imdb.com/title/tt9253866/,9.2,55614,Documentary,TV-PG
+Game of Thrones,https://www.imdb.com/title/tt0944947/,9.2,2394809,"Action, Adventure, Drama",TV-MA
+Bluey,https://www.imdb.com/title/tt7678620/,9.3,36183,"Animation, Family",TV-Y
+The World at War,https://www.imdb.com/title/tt0071075/,9.2,32559,"Documentary, History, War",TV-PG
+Hagane no renkinjutsushi,https://www.imdb.com/title/tt1355642/,9.1,214036,"Animation, Action, Adventure",TV-14
+Rick and Morty,https://www.imdb.com/title/tt2861424/,9.1,636212,"Animation, Adventure, Comedy",TV-MA
+Life,https://www.imdb.com/title/tt1533395/,9.1,45191,Documentary,TV-G
+The Last Dance,https://www.imdb.com/title/tt8420184/,9.0,163009,"Documentary, Biography, History",TV-MA
+The Twilight Zone,https://www.imdb.com/title/tt0052520/,9.0,99152,"Drama, Fantasy, Horror",TV-PG
+The Vietnam War,https://www.imdb.com/title/tt1877514/,9.1,30786,"Documentary, History, War",TV-MA
+Sherlock,https://www.imdb.com/title/tt1475582/,9.1,1034925,"Crime, Drama, Mystery",TV-14
+Shingeki no Kyojin,https://www.imdb.com/title/tt2560140/,9.1,581103,"Animation, Action, Adventure",TV-MA
+Batman: The Animated Series,https://www.imdb.com/title/tt0103359/,9.0,124771,"Animation, Action, Adventure",TV-PG
+Arcane,https://www.imdb.com/title/tt11126994/,9.0,373708,"Animation, Action, Adventure",TV-14
+Better Call Saul,https://www.imdb.com/title/tt3032476/,9.0,707417,"Crime, Drama",TV-MA
+The Office,https://www.imdb.com/title/tt0386676/,9.0,758894,Comedy,TV-14
+The Blue Planet,https://www.imdb.com/title/tt0296310/,9.0,45206,Documentary,TV-G
+Clarkson&apos;s Farm,https://www.imdb.com/title/tt10541088/,9.0,69341,"Documentary, Comedy, Reality-TV",TV-PG
+Scam 1992: The Harshad Mehta Story,https://www.imdb.com/title/tt12392504/,9.2,163538,"Biography, Crime, Drama",TV-14
+Human Planet,https://www.imdb.com/title/tt1806234/,9.0,29627,Documentary,TV-PG
+Frozen Planet,https://www.imdb.com/title/tt2092588/,9.0,35262,Documentary,TV-PG
+Hunter x Hunter,https://www.imdb.com/title/tt2098220/,9.0,155368,"Animation, Action, Adventure",TV-14
+Firefly,https://www.imdb.com/title/tt0303461/,8.9,288596,"Adventure, Drama, Sci-Fi",TV-14
+Only Fools and Horses,https://www.imdb.com/title/tt0081912/,9.0,60000,Comedy,TV-PG
+The Civil War,https://www.imdb.com/title/tt0098769/,9.0,20899,"Documentary, History, War",TV-14
+Death Note: Desu nôto,https://www.imdb.com/title/tt0877057/,8.9,410643,"Animation, Crime, Drama",TV-14
+Gravity Falls,https://www.imdb.com/title/tt1865718/,8.9,151254,"Animation, Adventure, Comedy",TV-Y7
+Seinfeld,https://www.imdb.com/title/tt0098904/,8.9,364718,Comedy,TV-PG
+Dekalog,https://www.imdb.com/title/tt0092337/,8.9,30270,Drama,TV-MA
+The Beatles: Get Back,https://www.imdb.com/title/tt9735318/,8.9,31481,"Documentary, Biography, Music",PG-13
+Kaubôi bibappu: Cowboy Bebop,https://www.imdb.com/title/tt0213338/,8.9,149785,"Animation, Action, Adventure",TV-14
+True Detective,https://www.imdb.com/title/tt2356777/,8.9,688751,"Crime, Drama, Mystery",TV-MA
+Fargo,https://www.imdb.com/title/tt2802850/,8.8,438872,"Crime, Drama, Thriller",TV-MA
+Gibi,https://www.imdb.com/title/tt13675832/,9.0,27340,Comedy,N/A
+Nathan for You,https://www.imdb.com/title/tt2297757/,8.9,42467,"Documentary, Comedy",TV-14
+Sahsiyet,https://www.imdb.com/title/tt7920978/,9.0,50844,"Crime, Drama, Mystery",TV-MA
+Apocalypse: La 2ème guerre mondiale,https://www.imdb.com/title/tt1508238/,9.0,16296,"Documentary, History, War",TV-MA
+Taskmaster,https://www.imdb.com/title/tt4934214/,9.0,23651,"Comedy, Game-Show",TV-14
+Sôsô no Furîren,https://www.imdb.com/title/tt22248376/,8.9,32986,"Animation, Adventure, Comedy",TV-14
+Africa,https://www.imdb.com/title/tt2571774/,8.9,18973,Documentary,TV-PG
+When They See Us,https://www.imdb.com/title/tt7137906/,8.8,145622,"Biography, Crime, Drama",TV-MA
+Friends,https://www.imdb.com/title/tt0108778/,8.9,1129511,"Comedy, Romance",TV-14
+Last Week Tonight with John Oliver,https://www.imdb.com/title/tt3530232/,8.8,99197,"Comedy, News, Talk-Show",TV-MA
+It&apos;s Always Sunny in Philadelphia,https://www.imdb.com/title/tt0472954/,8.8,262486,Comedy,TV-MA
+Succession,https://www.imdb.com/title/tt7660850/,8.8,305037,"Comedy, Drama",TV-MA
+The West Wing,https://www.imdb.com/title/tt0200276/,8.9,90615,Drama,TV-14
+TVF Pitchers,https://www.imdb.com/title/tt4742876/,9.1,75185,"Comedy, Drama",TV-MA
+One Piece: Wan pîsu,https://www.imdb.com/title/tt0388629/,9.0,279917,"Animation, Action, Adventure",TV-14
+Monty Python&apos;s Flying Circus,https://www.imdb.com/title/tt0063929/,8.8,81840,Comedy,TV-14
+Curb Your Enthusiasm,https://www.imdb.com/title/tt0264235/,8.8,155068,Comedy,TV-MA
+Das Boot,https://www.imdb.com/title/tt0081834/,8.8,35738,"Drama, War",TV-MA
+BoJack Horseman,https://www.imdb.com/title/tt3398228/,8.8,204707,"Animation, Comedy, Drama",TV-MA
+Fawlty Towers,https://www.imdb.com/title/tt0072500/,8.8,104098,Comedy,TV-PG
+The Chosen,https://www.imdb.com/title/tt5622316/,9.1,53886,"Drama, History",TV-PG
+Leyla ile Mecnun,https://www.imdb.com/title/tt1831164/,9.1,99207,"Adventure, Comedy, Drama",TV-PG
+Dragon Ball Z,https://www.imdb.com/title/tt0214341/,8.8,158075,"Animation, Action, Adventure",TV-PG
+Blackadder Goes Forth,https://www.imdb.com/title/tt0096548/,8.8,59822,"Comedy, War",TV-PG
+Panchayat,https://www.imdb.com/title/tt12004706/,9.0,101048,"Comedy, Drama",TV-14
+Pride and Prejudice,https://www.imdb.com/title/tt0112130/,8.8,96869,"Drama, Romance",TV-PG
+Freaks and Geeks,https://www.imdb.com/title/tt0193676/,8.8,158607,"Comedy, Drama",TV-14
+Twin Peaks,https://www.imdb.com/title/tt0098936/,8.8,226475,"Crime, Drama, Mystery",TV-MA
+Dragon Ball Z: Doragon bôru zetto,https://www.imdb.com/title/tt0121220/,8.8,93771,"Animation, Action, Adventure",TV-PG
+Chappelle&apos;s Show,https://www.imdb.com/title/tt0353049/,8.8,75373,"Comedy, Music",TV-MA
+Bleach: Sennen Kessen-hen,https://www.imdb.com/title/tt14986406/,9.0,56609,"Animation, Action, Adventure",TV-MA
+Narcos,https://www.imdb.com/title/tt2707408/,8.7,492529,"Biography, Crime, Drama",TV-MA
+Vinland Saga,https://www.imdb.com/title/tt10233448/,8.8,91181,"Animation, Action, Adventure",TV-MA
+Gullak,https://www.imdb.com/title/tt10530900/,9.1,25797,"Comedy, Drama, Family",N/A
+"I, Claudius",https://www.imdb.com/title/tt0074006/,8.8,20685,"Biography, Drama, History",Not Rated
+Kota Factory,https://www.imdb.com/title/tt9432978/,9.0,86951,"Comedy, Drama",TV-14
+South Park,https://www.imdb.com/title/tt0121955/,8.7,417835,"Animation, Comedy",TV-MA
+Black Mirror,https://www.imdb.com/title/tt2085059/,8.7,669562,"Crime, Drama, Mystery",TV-MA
+Over the Garden Wall,https://www.imdb.com/title/tt3718778/,8.7,78206,"Animation, Short, Adventure",TV-PG
+Ted Lasso,https://www.imdb.com/title/tt10986410/,8.8,385633,"Comedy, Drama, Sport",TV-MA
+X-Men &apos;97,https://www.imdb.com/title/tt16026746/,8.8,41107,"Animation, Action, Adventure",TV-14
+Eungdaphara 1988,https://www.imdb.com/title/tt5182866/,9.0,14688,"Comedy, Drama, Family",N/A
+Peaky Blinders,https://www.imdb.com/title/tt2442560/,8.7,695181,"Crime, Drama",TV-MA
+Six Feet Under,https://www.imdb.com/title/tt0248654/,8.7,156434,"Comedy, Drama",TV-MA
+Steins;Gate,https://www.imdb.com/title/tt1910272/,8.8,80036,"Animation, Comedy, Drama",TV-14
+Rome,https://www.imdb.com/title/tt0384766/,8.7,192624,"Action, Drama, Romance",TV-MA
+Oz,https://www.imdb.com/title/tt0118421/,8.7,110921,"Crime, Drama, Thriller",TV-MA
+Naui ajusshi,https://www.imdb.com/title/tt7923710/,9.0,11693,"Drama, Family",TV-14
+Dark,https://www.imdb.com/title/tt5753856/,8.7,478064,"Crime, Drama, Mystery",TV-MA
+Kenpuu Denki Berserk,https://www.imdb.com/title/tt0318871/,8.7,62344,"Animation, Action, Adventure",TV-MA
+Fleabag,https://www.imdb.com/title/tt5687612/,8.7,221057,"Comedy, Drama",TV-MA
+Severance,https://www.imdb.com/title/tt11280740/,8.7,251080,"Drama, Mystery, Sci-Fi",TV-MA
+The Last of Us,https://www.imdb.com/title/tt3581920/,8.7,601451,"Action, Adventure, Drama",TV-MA
+Downton Abbey,https://www.imdb.com/title/tt1606375/,8.7,232423,"Drama, Romance",TV-PG
+The Shield,https://www.imdb.com/title/tt0286486/,8.7,91881,"Crime, Drama, Thriller",TV-MA
+Battlestar Galactica,https://www.imdb.com/title/tt0407362/,8.7,180580,"Action, Adventure, Drama",TV-14
+The Grand Tour,https://www.imdb.com/title/tt5712554/,8.7,89460,"Comedy, Sport, Talk-Show",TV-14
+Blue Eye Samurai,https://www.imdb.com/title/tt13309742/,8.7,86203,"Animation, Action, Adventure",TV-MA
+The Simpsons,https://www.imdb.com/title/tt0096697/,8.7,448695,"Animation, Comedy",TV-14
+Mad Men,https://www.imdb.com/title/tt0804503/,8.7,270898,Drama,TV-MA
+Peep Show,https://www.imdb.com/title/tt0387764/,8.7,69522,Comedy,TV-MA
+Star Trek: The Next Generation,https://www.imdb.com/title/tt0092455/,8.7,141886,"Action, Adventure, Drama",TV-PG
+House M.D.,https://www.imdb.com/title/tt0412142/,8.7,545774,"Drama, Mystery",TV-14
+Arrested Development,https://www.imdb.com/title/tt0367279/,8.7,331978,Comedy,TV-14
+One Punch Man: Wanpanman,https://www.imdb.com/title/tt4508902/,8.7,197111,"Animation, Action, Comedy",TV-PG
+Naruto: Shippûden,https://www.imdb.com/title/tt0988824/,8.7,189798,"Animation, Action, Adventure",TV-PG
+Justice League Unlimited,https://www.imdb.com/title/tt6025022/,8.7,22555,"Animation, Action, Adventure",TV-Y7-FV
+Monster,https://www.imdb.com/title/tt0434706/,8.7,53462,"Animation, Crime, Drama",TV-14
+The Boys,https://www.imdb.com/title/tt1190634/,8.7,752485,"Action, Comedy, Crime",TV-MA
+Invincible,https://www.imdb.com/title/tt6741278/,8.6,227118,"Animation, Action, Adventure",TV-MA
+The Adventures of Sherlock Holmes,https://www.imdb.com/title/tt0086661/,8.7,25678,"Crime, Drama, Mystery",TV-PG
+Friday Night Lights,https://www.imdb.com/title/tt0758745/,8.7,75327,"Drama, Sport",TV-14
+Mahabharat,https://www.imdb.com/title/tt0158417/,8.9,25006,"Action, Adventure, Drama",TV-14
+The Marvelous Mrs. Maisel,https://www.imdb.com/title/tt5788792/,8.7,149040,"Comedy, Drama",TV-MA
+Stranger Things,https://www.imdb.com/title/tt4574334/,8.7,1414193,"Drama, Fantasy, Horror",TV-14
+Line of Duty,https://www.imdb.com/title/tt2303687/,8.7,74494,"Crime, Drama, Mystery",TV-14
+Top Gear,https://www.imdb.com/title/tt1628033/,8.7,131186,"Adventure, Sport, Talk-Show",TV-PG
+1883,https://www.imdb.com/title/tt13991232/,8.7,130849,"Drama, Western",TV-MA
+The Thick of It,https://www.imdb.com/title/tt0459159/,8.7,27657,Comedy,TV-MA
+How to with John Wilson,https://www.imdb.com/title/tt10801534/,8.7,15110,"Documentary, Comedy",TV-MA
+This Is Us,https://www.imdb.com/title/tt5555260/,8.7,165606,"Comedy, Drama, Romance",TV-14
+Behzat Ç.,https://www.imdb.com/title/tt1795096/,8.8,34463,"Crime, Drama, Mystery",TV-14
+Father Ted,https://www.imdb.com/title/tt0111958/,8.7,45620,Comedy,TV-14
+Sarabhai V/S Sarabhai,https://www.imdb.com/title/tt1518542/,8.9,19099,Comedy,TV-PG
+Aspirants,https://www.imdb.com/title/tt14392248/,9.2,314910,Drama,N/A
+Kôdo Giasu: Hangyaku no Rurûshu,https://www.imdb.com/title/tt0994314/,8.7,87736,"Animation, Action, Drama",TV-14
+The Mandalorian,https://www.imdb.com/title/tt8111088/,8.6,613732,"Action, Adventure, Fantasy",TV-14
+Parks and Recreation,https://www.imdb.com/title/tt1266020/,8.6,299092,Comedy,TV-14
+The Penguin,https://www.imdb.com/title/tt15435876/,8.6,170703,"Crime, Drama",TV-MA
+House of Cards,https://www.imdb.com/title/tt1856010/,8.6,542739,Drama,TV-MA
+The X Files,https://www.imdb.com/title/tt0106179/,8.6,259043,"Adventure, Crime, Drama",TV-14
+Atlanta,https://www.imdb.com/title/tt4288182/,8.6,92875,"Comedy, Drama, Music",TV-MA
+Deadwood,https://www.imdb.com/title/tt0348914/,8.6,122228,"Crime, Drama, History",TV-MA
+Dexter,https://www.imdb.com/title/tt0773262/,8.6,820828,"Crime, Drama, Mystery",TV-MA
+Adventure Time,https://www.imdb.com/title/tt1305826/,8.6,120159,"Animation, Action, Adventure",TV-PG
+The Crown,https://www.imdb.com/title/tt4786824/,8.6,266952,"Biography, Drama, History",TV-MA
+Ramayan,https://www.imdb.com/title/tt0268093/,9.0,25552,"Adventure, Drama, Family",TV-14
+It&apos;s a Sin,https://www.imdb.com/title/tt9140342/,8.6,38873,Drama,TV-MA
+Shogun,https://www.imdb.com/title/tt2788316/,8.6,203400,"Adventure, Drama, History",TV-MA
+Bron/Broen,https://www.imdb.com/title/tt1733785/,8.6,80026,"Crime, Mystery, Thriller",TV-MA
+Primal,https://www.imdb.com/title/tt10332508/,8.7,23722,"Animation, Action, Adventure",TV-MA
+Daredevil,https://www.imdb.com/title/tt3322312/,8.6,490808,"Action, Crime, Drama",TV-MA
+Mr Inbetween,https://www.imdb.com/title/tt7472896/,8.7,37735,"Crime, Drama",TV-MA
+Blackadder II,https://www.imdb.com/title/tt0088484/,8.6,51677,Comedy,TV-PG
+Lonesome Dove,https://www.imdb.com/title/tt0096639/,8.7,27583,"Adventure, Drama, Western",TV-14
+Mindhunter,https://www.imdb.com/title/tt5290382/,8.6,359371,"Crime, Drama, Mystery",TV-MA
+Poirot,https://www.imdb.com/title/tt0094525/,8.6,54946,"Crime, Drama, Mystery",TV-14
+Haikyû!!,https://www.imdb.com/title/tt3398540/,8.7,42120,"Animation, Comedy, Drama",TV-14
+Mr. Bean,https://www.imdb.com/title/tt0096657/,8.6,140271,"Comedy, Family",Not Rated
+The Jinx: The Life and Deaths of Robert Durst,https://www.imdb.com/title/tt4299972/,8.6,55542,"Documentary, Biography, Crime",TV-14
+Sarangeui bulsachak,https://www.imdb.com/title/tt10850932/,8.7,48434,"Adventure, Comedy, Drama",TV-14
+The Return of Sherlock Holmes,https://www.imdb.com/title/tt0090509/,8.7,14362,"Crime, Drama, Mystery",TV-PG
+The Offer,https://www.imdb.com/title/tt13111040/,8.6,44455,"Biography, Crime, Drama",TV-MA
+Gomorrah,https://www.imdb.com/title/tt2049116/,8.6,46802,"Crime, Drama, Thriller",TV-MA
+Hajime no Ippo,https://www.imdb.com/title/tt0481256/,8.8,12810,"Animation, Action, Comedy",TV-PG
+Scavengers Reign,https://www.imdb.com/title/tt21056886/,8.6,26966,"Animation, Adventure, Drama",TV-MA
+Pose,https://www.imdb.com/title/tt7562112/,8.6,34647,Drama,TV-MA
+Yes Minister,https://www.imdb.com/title/tt0080306/,8.6,17728,Comedy,TV-PG
+Blackadder the Third,https://www.imdb.com/title/tt0092324/,8.6,48705,Comedy,TV-PG
+Greatest Events of WWII in Colour,https://www.imdb.com/title/tt9103932/,8.6,12235,"Documentary, History, War",N/A
+Mystery Science Theater 3000,https://www.imdb.com/title/tt0094517/,8.6,26857,"Comedy, Sci-Fi",TV-14
+Anne with an E,https://www.imdb.com/title/tt5421602/,8.6,72058,"Drama, Family",TV-PG
+Archer,https://www.imdb.com/title/tt1486217/,8.6,170297,"Animation, Action, Comedy",TV-MA
+The Newsroom,https://www.imdb.com/title/tt1870479/,8.6,128880,Drama,TV-MA
+Dopesick,https://www.imdb.com/title/tt9174558/,8.6,84329,Drama,TV-MA
+Critical Role,https://www.imdb.com/title/tt4834232/,9.0,14230,"Adventure, Fantasy",TV-14
+Le bureau des légendes,https://www.imdb.com/title/tt4063800/,8.7,16153,"Drama, Thriller",TV-MA
+Boardwalk Empire,https://www.imdb.com/title/tt0979432/,8.6,209222,"Crime, Drama",TV-MA
+Kimetsu no Yaiba,https://www.imdb.com/title/tt9335498/,8.6,177103,"Animation, Action, Adventure",TV-MA
+El Chavo del Ocho,https://www.imdb.com/title/tt0229889/,8.7,14448,"Comedy, Family",TV-PG
+Young Justice,https://www.imdb.com/title/tt1641384/,8.6,47884,"Animation, Action, Adventure",TV-PG
+Yeh Meri Family,https://www.imdb.com/title/tt8595766/,8.9,26947,"Comedy, Drama, Family",TV-14
+Homicide: Life on the Street,https://www.imdb.com/title/tt0106028/,8.7,15662,"Crime, Drama, Mystery",TV-14
+QI,https://www.imdb.com/title/tt0380136/,8.6,34675,"Comedy, Game-Show",TV-PG
+Justified,https://www.imdb.com/title/tt1489428/,8.6,123480,"Action, Crime, Drama",TV-MA
+The Bugs Bunny Show,https://www.imdb.com/title/tt0053488/,8.6,36733,"Animation, Comedy",TV-G
+What We Do in the Shadows,https://www.imdb.com/title/tt7908628/,8.6,115510,"Comedy, Fantasy, Horror",TV-MA
+The Family Man,https://www.imdb.com/title/tt9544034/,8.7,102869,"Action, Comedy, Drama",TV-MA
+Dragon Ball: Doragon bôru,https://www.imdb.com/title/tt0088509/,8.5,70519,"Animation, Action, Adventure",TV-14
+The Haunting of Hill House,https://www.imdb.com/title/tt6763664/,8.5,304954,"Drama, Horror, Mystery",TV-MA
+Justice League,https://www.imdb.com/title/tt0275137/,8.5,54048,"Animation, Action, Adventure",TV-PG
+Battlestar Galactica,https://www.imdb.com/title/tt0314979/,8.5,82429,"Action, Adventure, Drama",TV-14
+The Venture Bros.,https://www.imdb.com/title/tt0417373/,8.6,29192,"Animation, Action, Adventure",TV-14
+Dragon Ball,https://www.imdb.com/title/tt0280249/,8.5,68514,"Animation, Action, Adventure",TV-14
+Endeavour,https://www.imdb.com/title/tt2701582/,8.6,35433,"Crime, Drama, Mystery",TV-14
+"Yes, Prime Minister",https://www.imdb.com/title/tt0086831/,8.6,13849,Comedy,TV-PG
+Flight of the Conchords,https://www.imdb.com/title/tt0863046/,8.5,67770,"Comedy, Music, Musical",TV-MA
+Samurai Chanpurû,https://www.imdb.com/title/tt0423731/,8.5,58484,"Animation, Action, Adventure",TV-MA
+The Queen&apos;s Gambit,https://www.imdb.com/title/tt10048342/,8.5,599841,Drama,TV-MA
+Yellowstone,https://www.imdb.com/title/tt4236770/,8.6,257724,"Drama, Western",TV-MA
+The Bear,https://www.imdb.com/title/tt14452776/,8.5,261346,"Comedy, Drama",TV-MA
+The IT Crowd,https://www.imdb.com/title/tt0487831/,8.5,169264,Comedy,TV-14
+Coupling,https://www.imdb.com/title/tt0237123/,8.5,48905,"Comedy, Romance",TV-14
+Making a Murderer,https://www.imdb.com/title/tt5189670/,8.5,105300,"Documentary, Crime",TV-14
+Rocket Boys,https://www.imdb.com/title/tt13868972/,8.9,19127,"Drama, History",N/A
+Ezel,https://www.imdb.com/title/tt1534360/,8.6,39717,"Crime, Drama, Thriller",TV-14
+Mr. Robot,https://www.imdb.com/title/tt4158110/,8.5,435039,"Crime, Drama, Thriller",TV-MA
+Senke nad Balkanom,https://www.imdb.com/title/tt6108262/,8.8,13166,"Crime, Drama, Thriller",TV-MA
+I&apos;m Alan Partridge,https://www.imdb.com/title/tt0129690/,8.6,22925,Comedy,TV-MA
+Samurai Jack,https://www.imdb.com/title/tt0278238/,8.5,62442,"Animation, Action, Adventure",TV-MA
+Impractical Jokers,https://www.imdb.com/title/tt2100976/,8.6,48312,"Comedy, Reality-TV",TV-14
+Detectorists,https://www.imdb.com/title/tt4082744/,8.6,23307,Comedy,TV-14
+Jujutsu Kaisen,https://www.imdb.com/title/tt12343534/,8.5,142564,"Animation, Action, Adventure",TV-MA
+Happy Valley,https://www.imdb.com/title/tt3428912/,8.5,68320,"Crime, Drama, Thriller",TV-MA
+Spaced,https://www.imdb.com/title/tt0187664/,8.5,59191,Comedy,TV-14
+Long Way Round,https://www.imdb.com/title/tt0403778/,8.6,16039,"Documentary, Adventure",TV-PG
+Mob Psycho 100,https://www.imdb.com/title/tt5897304/,8.5,52452,"Animation, Action, Comedy",TV-14
+Spartacus,https://www.imdb.com/title/tt1442449/,8.5,264088,"Action, Adventure, Biography",TV-MA
+The Eric Andre Show,https://www.imdb.com/title/tt2244495/,8.5,22941,"Comedy, Talk-Show",TV-MA
+Whose Line Is It Anyway?,https://www.imdb.com/title/tt0163507/,8.5,47696,"Comedy, Game-Show",TV-PG
+Regular Show,https://www.imdb.com/title/tt1710308/,8.5,64096,"Animation, Action, Adventure",TV-PG
+Louie,https://www.imdb.com/title/tt1492966/,8.5,83717,"Comedy, Drama",TV-MA
+Sons of Anarchy,https://www.imdb.com/title/tt1124373/,8.5,335840,"Crime, Drama, Thriller",TV-MA
+Derry Girls,https://www.imdb.com/title/tt7120662/,8.5,66749,Comedy,TV-MA
+Twin Peaks,https://www.imdb.com/title/tt4093826/,8.5,80635,"Crime, Drama, Horror",TV-MA
+The Office,https://www.imdb.com/title/tt0290978/,8.5,127092,"Comedy, Drama",TV-MA
+Through the Wormhole,https://www.imdb.com/title/tt1513168/,8.6,19032,Documentary,TV-PG
+Shinseiki Evangelion,https://www.imdb.com/title/tt0112159/,8.5,94028,"Animation, Action, Drama",TV-MA
+Trailer Park Boys,https://www.imdb.com/title/tt0290988/,8.5,53533,"Comedy, Crime",TV-MA
+Spartacus: Gods of the Arena,https://www.imdb.com/title/tt1758429/,8.5,149040,"Action, Adventure, Biography",TV-MA
+Formula 1: Drive to Survive,https://www.imdb.com/title/tt8289930/,8.5,54203,"Documentary, Sport",TV-MA
+Schitt$ Creek,https://www.imdb.com/title/tt3526078/,8.5,157052,Comedy,TV-14
+Brass Eye,https://www.imdb.com/title/tt0118273/,8.6,12142,Comedy,TV-MA
+Skam,https://www.imdb.com/title/tt5288312/,8.6,40480,"Drama, Romance",Not Rated
+Silicon Valley,https://www.imdb.com/title/tt2575988/,8.5,172070,Comedy,TV-MA
+Hwan Hon,https://www.imdb.com/title/tt20859920/,8.7,21515,"Action, Drama, Fantasy",TV-14
+L&apos;amica geniale,https://www.imdb.com/title/tt7278862/,8.6,20896,Drama,TV-MA
+Shameless,https://www.imdb.com/title/tt1586680/,8.5,304386,"Comedy, Drama",TV-MA
+Rurôni Kenshin: Meiji kenkaku romantan - Tsuioku-hen,https://www.imdb.com/title/tt0203082/,8.6,17098,"Animation, Action, Adventure",TV-MA
+Futurama,https://www.imdb.com/title/tt0149460/,8.5,268729,"Animation, Adventure, Comedy",TV-14
+Hagane no renkinjutsushi,https://www.imdb.com/title/tt0421357/,8.5,80852,"Animation, Action, Adventure",TV-PG
+North &amp; South,https://www.imdb.com/title/tt0417349/,8.5,36308,"Drama, Romance",TV-PG
+The Expanse,https://www.imdb.com/title/tt3230854/,8.5,180142,"Drama, Mystery, Sci-Fi",TV-14
+Hannibal,https://www.imdb.com/title/tt2243973/,8.5,287636,"Crime, Drama, Horror",TV-MA
+Doctor Who,https://www.imdb.com/title/tt0436992/,8.5,254680,"Adventure, Drama, Sci-Fi",TV-PG
+Isanghan byeonhosa Woo Young-woo,https://www.imdb.com/title/tt20869502/,8.6,31452,Drama,TV-14
+Avrupa Yakasi,https://www.imdb.com/title/tt0421291/,8.6,22518,Comedy,N/A
+From the Earth to the Moon,https://www.imdb.com/title/tt0120570/,8.6,13910,"Action, Drama, History",TV-14
+Wentworth,https://www.imdb.com/title/tt2433738/,8.6,25890,"Crime, Drama, Thriller",TV-MA
+All Creatures Great &amp; Small,https://www.imdb.com/title/tt10590066/,8.6,19166,"Comedy, Drama",TV-PG
+Umbre,https://www.imdb.com/title/tt4269716/,8.7,12146,"Crime, Drama, Thriller",TV-MA
+Letterkenny,https://www.imdb.com/title/tt4647692/,8.6,31824,Comedy,TV-MA
+Gintama,https://www.imdb.com/title/tt0988818/,8.7,17414,"Animation, Action, Comedy",TV-14
+Miseuteo Shunshain,https://www.imdb.com/title/tt7094780/,8.7,11722,"Action, Drama, Romance",TV-MA
+Foyle&apos;s War,https://www.imdb.com/title/tt0310455/,8.6,19397,"Crime, Drama, Mystery",TV-14
+Shigatsu wa kimi no uso,https://www.imdb.com/title/tt3895150/,8.5,41834,"Animation, Comedy, Drama",TV-PG
