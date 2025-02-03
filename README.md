@@ -157,7 +157,7 @@ imdb_scraper/
 
    python:
    ```python
-   manager = IMDBMovieManager(csv_path="my_custom_movies.csv")
+   manager = IMDBMovieManager(csv_path="custom.csv")
    rating = manager.find_movie_rating("Inception")
    ```
    bash:
